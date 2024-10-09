@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"boto3" = "*"
+"fastparquet" = "*"
+"kaleido" = "*"
+"matplotlib" = "*"
+"pandas" = "*"
+"plotly" = "*"
+"pyarrow" = "*"
+"requests" = "*"
+"s3fs" = "*"
+"scipy" = "*"
+"tqdm" = "*"
+"pubchempy" = "*"
+"scikit-learn" = "*"
+
+[dev-packages]
+#"black" = "*"
+"ipykernel" = "*"
+"jupyter" = "*"
+#"nb-black" = "*"
+
+[requires]
+python_version = "3.10"
