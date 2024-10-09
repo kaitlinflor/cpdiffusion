@@ -18,3 +18,6 @@ sample-cloome-bbbc
 **/slurm_output/
 **/cloome-bbbc
 **/train
+
+allfileshashe.txt
+gitignore_backup
